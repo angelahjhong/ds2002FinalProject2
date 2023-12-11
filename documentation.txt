@@ -1,0 +1,14 @@
+The relationship between Factor vs. Time:
+There is an exponential growth in the plot as time increases which is seen by the plot.
+
+The relationship between Pi and Time:
+In the plot, Pi begins at around 3.14 and then sudden increases 30 minutes in, and then quickly falls and stabilize again
+at around 3.14 for the remaining duration of time.
+
+The relationship between Factor vs. Pi:
+Lastly, the Pi value starts at 4.0 and decreases at a steady rate across the hour duration and ends at around a pi value
+of 3.14.
+
+In conclusion, a positive correlation is evident between the time and factor variables, indicating
+exponential growth as time progresses. However, the relationships between time and pi, as well as pi and factor,
+appear to be minimal, with pi maintaining a relatively constant value despite increases in both time and factor variables.
